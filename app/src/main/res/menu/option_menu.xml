@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mn_maps"
+        android:title="@string/map"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_map"/>
+
+    <item
+        android:id="@+id/mn_logout"
+        android:title="@string/logout"
+        app:showAsAction="always"
+        android:icon="@drawable/icon_logout_24"/>
+</menu>
